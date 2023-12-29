@@ -1,5 +1,7 @@
 # LU Decomposition 
-
+### NAME:SHYAM S
+### REF.NO: 23012478
+### DEPT: AIML
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 
