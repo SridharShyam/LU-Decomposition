@@ -7,7 +7,7 @@ To write a program to find the LU Decomposition of a matrix.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+## Algorithm:
 1. Import the lu function from scipy.linalg for LU decomposition.
 2. Convert the input string to a numpy array using the eval() function.
 3. Use the lu() function to decompose the matrix A into P,and U.
